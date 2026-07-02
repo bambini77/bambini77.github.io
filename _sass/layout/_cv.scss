@@ -1,0 +1,48 @@
+/* ==========================================================================
+   CV
+   ========================================================================== */
+
+.cv-page {
+  font-size: 0.9rem;
+  line-height: 1.55;
+
+  h1,
+  h2,
+  h3 {
+    line-height: 1.25;
+  }
+
+  h1 {
+    margin-top: 1.45em;
+    margin-bottom: 0.55em;
+    padding-bottom: 0.25em;
+    border-bottom: 1px solid var(--global-border-color);
+    font-size: 1.3rem;
+  }
+
+  h2 {
+    margin-top: 1.4em;
+    margin-bottom: 0.5em;
+    font-size: 1.15rem;
+  }
+
+  h3 {
+    margin-top: 1em;
+    margin-bottom: 0.25em;
+    font-size: 1.05rem;
+  }
+
+  p,
+  ul {
+    margin-top: 0.35em;
+    margin-bottom: 0.75em;
+  }
+
+  li {
+    margin-bottom: 0.2em;
+  }
+
+  strong {
+    font-weight: 700;
+  }
+}
