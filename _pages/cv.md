@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 **Hongik University**, Seoul, Republic of Korea  
-B.S. in Computer Science and Engineering, expected Feb. 2028
+B.S. in Computer Engineering, expected Feb. 2028
 
 Research Interests
 ======
