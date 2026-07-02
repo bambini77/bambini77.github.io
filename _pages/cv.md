@@ -37,23 +37,23 @@ Publications
 ======
 ### Accepted / Published
 
-**Yun Chang Choi**, Tae Hyung Kim, Jungjae Park, Jiwoo Han  
 **Robust Automated Identification of Diatom Microfossils under Severe Data Scarcity via Deep Ensemble Learning**  
+**Yun Chang Choi**, Tae Hyung Kim, Jungjae Park, Jiwoo Han  
 *Earth Science Informatics*, 2026
 
-Hyun Jun Yook, Hee Jae Chung, **Yun Chang Choi**, Su Yeon Kim, Tae Hyung Kim, Youn Kyu Lee  
 **To Detect, and Beyond: Integrating Text-Guided Object Detection and Super-Resolution**  
+Hyun Jun Yook, Hee Jae Chung, **Yun Chang Choi**, Su Yeon Kim, Tae Hyung Kim, Youn Kyu Lee  
 *International Conference on ICT Convergence (ICTC)*, 2024
 
 
 ### Under Review
 
-**Yun Chang Choi**, Dongwook Park, Junhyung Kim, Tae Hyung Kim  
 **SAP: Semantic-Aware Prompting for Cross-Domain Few-Shot Learning**  
+**Yun Chang Choi**, Dongwook Park, Junhyung Kim, Tae Hyung Kim  
 Submitted to *NeurIPS 2026*
 
-**Yun Chang Choi**\*, Do Hyun Jung\*, Jungjae Park, Jiwoo Han, Tae Hyung Kim  
 **PETAL: Projection-based Episodic Training for Adaptive Learning in Fine-Grained Few-Shot Pollen Fossil Classification**  
+**Yun Chang Choi**\*, Do Hyun Jung\*, Jungjae Park, Jiwoo Han, Tae Hyung Kim  
 Submitted to *Scientific Reports*  
 \* Equal contribution
 
