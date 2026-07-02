@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-<div class="cv-page" markdown="1">
-
 Education
 ======
 **Hongik University**, Seoul, Republic of Korea  
@@ -28,7 +26,7 @@ Research Interests
 Research Experience
 ======
 ### Undergraduate Research Intern, AISLab, Hongik University
-Mar. 2024 - Present  
+**Mar. 2024 - Present**  
 Advisor: Prof. Tae Hyung Kim
 
 * Conduct research on cross-domain few-shot learning under severe data scarcity.
@@ -63,7 +61,7 @@ Projects
 ======
 
 ### AI Model Verification Platform
-Mar. 2026 – Present
+**Mar. 2026 – Present**
 
 - Developing an automated verification platform for evaluating the reliability and trustworthiness of AI models.
 - Designing evaluation protocols for robustness, safety, reproducibility, and model integrity.
@@ -71,15 +69,15 @@ Mar. 2026 – Present
 - Conducted as part of the Hanium ICT Mentoring Program.
 
 ### Bimanual Robot Manipulation using Action Chunking Transformer (ACT)
-Mar. 2025 – Sep. 2025
+**Mar. 2025 – Sep. 2025**
 
-- Developed a bimanual manipulation system using the LeRobot SO-101 robotic platform.
-- Implemented an imitation learning framework based on Action Chunking Transformer (ACT) for coordinated dual-arm manipulation.
+- Developed a bimanual manipulation system using the **LeRobot SO-101** robotic platform.
+- Implemented an imitation learning framework based on **Action Chunking Transformer (ACT)** for coordinated dual-arm manipulation.
 - Evaluated manipulation policies on real robotic hardware.
 - Conducted as part of the Hanium ICT Mentoring Program.
 
 ### RAG-based Academic Notice Chatbot
-Mar. 2024 – Sep. 2024
+**Mar. 2024 – Sep. 2024**
 
 - Developed a Retrieval-Augmented Generation (RAG) chatbot for answering university academic notices.
 - Improved retrieval performance using HyDE.
@@ -95,9 +93,7 @@ Skills
 Leadership and Activities
 ======
 ### President, Hongik Algorithm Club (HI-ARC)
-Jul. 2023 - Jun. 2024
+**Jul. 2023 - Jun. 2024**
 
 * Organized study groups and mentoring activities.
 * Organized and supervised HI-CON 2024, Hongik University's programming contest.
-
-</div>
