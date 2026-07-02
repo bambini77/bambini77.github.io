@@ -9,8 +9,7 @@ redirect_from:
 
 I am an undergraduate student in Computer Science and Engineering at Hongik University, advised by Prof. Tae Hyung Kim in AISLab.
 
-My research interests include computer vision, vision-language models, few-shot learning, reinforcement learning, and robot learning. I am particularly interested in building robust learning systems that can adapt under limited data and domain shifts.
+My current research interests center on reinforcement learning and robot learning. More broadly, I am interested in building robust learning systems that can operate under limited data, domain shifts, and real-world uncertainty.
 
-Recently, I have worked on cross-domain few-shot learning, fossil image classification under severe data scarcity, text-guided object detection and super-resolution, RAG-based academic notice systems, and bimanual robot manipulation using imitation learning.
 
 For more details, please see my [CV](/cv/).
