@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+
 Education
 ======
 **Hongik University**, Seoul, Republic of Korea  
